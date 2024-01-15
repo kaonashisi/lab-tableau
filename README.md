@@ -38,4 +38,4 @@ Upon completion of this lab, you will be able to:
 
 ### Result of the lab
 
-LINK : https://public.tableau.com/app/profile/sirine.kefi/viz/tableau-lab_17053354844300/Dashboard1
+LINK :https://public.tableau.com/app/profile/sirine.kefi/viz/tableau-lab_17053354844300/Dashboard1?publish=yes
